@@ -1,0 +1,39 @@
+
+
+.jumbotron {
+  background-image: url("../img/wildflowers.JPG");
+  background-size: 100%;
+  text-align: center;
+  color: white;
+  margin-bottom: 0;
+
+}
+
+h2{
+  color: #778899;
+}
+
+h3{
+  color: #778899;
+}
+#blog-post {
+  margin-left: 2%;
+}
+
+.img-circle{
+  width: 150px;
+  height: 150px;
+}
+
+#about-me-container{
+  text-align: center;
+}
+
+.biography{
+  text-align: left;
+}
+
+.col-md-4{
+  margin-top: 3em;
+  color: #778899;
+}

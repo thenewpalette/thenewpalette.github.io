@@ -1,0 +1,22 @@
+{
+  "name": "thenewpalette.github.io",
+  "homepage": "https://github.com/thenewpalette/thenewpalette.github.io",
+  "authors": [
+    "Nicky Cadavillo <nicoleacadavillo@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "font-awesome": "fontawesome#^4.5.0"
+  }
+}
