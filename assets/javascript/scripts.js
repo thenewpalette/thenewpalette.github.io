@@ -1,6 +1,6 @@
 // for some reason the used strict is not working?
-// $(function(){
-//    'use strict';
+$(function(){
+   'use strict';
 
 //tabs
 $('#about-me').on('click', function (){
@@ -13,4 +13,6 @@ $('#home').on('click', function (){
 
 $('#food').on('click', function (){
   window.location = "food.html";
+});
+
 });
