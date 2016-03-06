@@ -3,15 +3,18 @@ $(function(){
    'use strict';
 
 //tabs
-$('#about-me').on('click', function (){
+$('#about-me').on('click', function (event){
+  event.preventDefault();
   window.location = "aboutme.html";
 });
 
-$('#home').on('click', function (){
+$('#home').on('click', function (event){
+  event.preventDefault();
   window.location = "index.html";
 });
 
-$('#food').on('click', function (){
+$('#food').on('click', function (event){
+  event.preventDefault();
   window.location = "food.html";
 });
 
