@@ -18,4 +18,9 @@ $('#food').on('click', function (event){
   window.location = "food.html";
 });
 
+$('#design').on('click', function (event){
+  event.preventDefault();
+  window.location = "food.html";
+});
+
 });
