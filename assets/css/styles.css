@@ -1,15 +1,24 @@
 
 
 .jumbotron {
-  background-image: url("../img/wildflowers.JPG");
+  background-image: url("../img/desk.jpeg");
   background-size: 100%;
-  text-align: center;
-  color: white;
   margin-bottom: 0;
 
 }
 
+.jumbotron h1{
+  font-family: 'Questrial', sans-serif;
+  text-transform: uppercase;
+  border: 2px solid white;
+  width: 50%;
+  text-align: center;
+  color: white;
+  margin-left: 25%;
+}
+
 h2{
+  font-family: 'Questrial', sans-serif;
   color: #778899;
 }
 
@@ -38,4 +47,15 @@ h3{
 .col-md-4{
   margin-top: 3em;
   color: #778899;
+}
+
+.nav-pills {
+  font-family: 'Questrial', sans-serif;
+  text-transform: uppercase;
+
+}
+
+.lead {
+  font-family: 'Questrial', sans-serif;
+  text-transform: uppercase;
 }
