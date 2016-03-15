@@ -59,3 +59,16 @@ h3{
   font-family: 'Questrial', sans-serif;
   text-transform: uppercase;
 }
+
+.contact-footer {
+  font-family: 'Questrial', sans-serif;
+  text-transform: uppercase;
+  padding-right: 1em;
+  display: block;
+  text-align: center;
+}
+
+.links-footer{
+  padding-left: 1em;
+
+}

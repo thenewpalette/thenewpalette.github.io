@@ -23,4 +23,10 @@ $('#design').on('click', function (event){
   window.location = "food.html";
 });
 
+//about me footer
+$('.about-me-footer').on('click', function (event){
+  event.preventDefault();
+  window.location = "aboutme.html";
+});
+
 });
